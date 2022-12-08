@@ -1,7 +1,7 @@
 aenum==2.1.2
 attrs==18.2.0
 beautifulsoup4==4.7.1
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 fbchat==1.6.4
 idna==2.8
